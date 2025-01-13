@@ -1,0 +1,14 @@
+Name,Category
+PrimaryAmines,Amine
+SecondaryAmines,Amine
+ArylHalides,ArylHalide
+AlkylHalides,AlkylHalide
+AcylHalides,AcylHalide
+Alcohols,Alcohol
+Aldehydes,Aldehyde
+Heteroaromatic_Aldehydes,Aldehyde
+Boronics,Boronics
+CarboxylicAcids,CarboxylicAcid
+Heteroaromatic_Acids,CarboxylicAcid
+Heteroaromatic_SulfonylHalides,SulfonylHalide
+SulfonylHalides,SulfonylHalide
