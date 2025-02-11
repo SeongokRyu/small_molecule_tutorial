@@ -17,4 +17,5 @@
   2. Structure editing with RDKit: editing molecular structures with RDKit
   3. Reaction-based generation: generation of new molecular structures with pre-defined fragments and reaction templates
   4. Binary classification: train logistic regression and support vector machine models, and evaluate classification results 
-  5. Interaction analysis: analyze protein-ligand interactions by using PLIP
+  5. Molecular docking: practice PDB pre-processing and molecular docking with Vina
+  6. Interaction analysis: analyze protein-ligand interactions by using PLIP
